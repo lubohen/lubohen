@@ -1,9 +1,27 @@
-### Hello! I'm Lucas Bonilha Henrique, welcome 
+## 👋 Hello, I'm Lucas! 
 
+### 🚀 About Me
 
+I'm a Data Engineer & Tech Enthusiast with over 10 years of experience in data, engineering, and technology. Passionate about building scalable data pipelines, real-time streaming solutions, and mentoring future data professionals.
 
-- 🔭 I’m currently working on Data Engineering
-- 🌱 I’m currently learning Artificial Intelligence
+Currently working as a Technical Leader in Data Engineering at a financial institution, I'm responsible for architecting and optimizing data solutions. I also love teaching, and contributing to the data community.
+
+### 🎯 What I Do
+
+- Data Engineering & Architecture: Kafka, Airflow, Spark, EMR, AWS, Databricks
+- Streaming & Big Data: Real-time event processing, optimizing distributed systems
+- Mentoring & Community: Helping people transition into Data careers
+- Tech Entrepreneurship: Building solutions & sharing knowledge
+
+### 🎓Learning & Projects
+
+- 📖 Preparing for the next AWS certification
+- 🔧 Building a newsletter bot for Data & AI trends using Kafka & Airflow
+- 🌎 Improving my English for international opportunities
+
+### 📫 Let's Connect
+
+💼  [LinkedIn](https://www.linkedin.com/in/lbonilhahenrique/)
 
 <picture>
   <source
@@ -17,9 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lubohen&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubohen&layout=compact&theme=dark)](https://github.com/lubohen/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-</div>
